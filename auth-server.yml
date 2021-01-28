@@ -21,7 +21,7 @@ logging:
 # and token store
 spring:
   datasource:
-    url: jdbc:mysql:http://123.56.163.12:3306/web_linux
+    url: jdbc:mysql://123.56.163.12:3306/web_linux
     username: root
     password: Ly426227.
     driver-class: com.mysql.jdbc.Driver
